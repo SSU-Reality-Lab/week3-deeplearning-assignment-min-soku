@@ -1,0 +1,8 @@
+
+utils/datasets/*
+!utils/datasets/*.sh
+!utils/datasets/**/*.sh
+
+__pycache__/
+*.pyc
+*.pyo
